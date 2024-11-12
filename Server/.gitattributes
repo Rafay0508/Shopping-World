@@ -2,3 +2,5 @@
 * text=auto
 # Node modules
 node_modules/
+
+.env
